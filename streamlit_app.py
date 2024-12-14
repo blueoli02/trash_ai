@@ -6,7 +6,7 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID
-file_id = '1jK6LM84pSfQLvZedAIwcO6vUH8nd2YrS'
+file_id = '1flUH367PZUDxW-k8d0Q6m6-yVpiRzNqM'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
@@ -144,7 +144,7 @@ content_data = {
             "깨진 유리는 재활용X :일반 종량제봉투가 찢어지지 않도록 신문지에 싸서 배출!"
         ]
     },
-      labels[4]: {
+    labels[4]: {
         'images': [
             "https://i.ibb.co/px4P45n/image.webp",
             "https://i.ibb.co/dk3kMFy/image.jpg",
