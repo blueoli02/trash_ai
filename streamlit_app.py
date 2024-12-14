@@ -93,7 +93,7 @@ content_data = {
             "종이류, 세척이 불가능한 경우 일반쓰레기로 배출"
         ]
     },
-    labels[1]: {
+    labels[2]: {
         'images': [
             "https://i.ibb.co/DDNb1J4/image.webp",
             "https://i.ibb.co/dk3kMFy/image.jpg",
@@ -110,7 +110,7 @@ content_data = {
             "주의: 고무, 플라스틱이 부착되었거나 페인트통,폐유통 등 유해물질이 묻어있는 통은 재활용이 불가함!"
         ]
     },
-    labels[2]: {
+    labels[5]: {
         'images': [
             "https://i.ibb.co/q1vx6tg/image.png",
             "https://i.ibb.co/dk3kMFy/image.jpg",
@@ -127,7 +127,7 @@ content_data = {
             "당신의 잠깐의 불편함이 지속적인 인류 안녕을 만듭니다."
         ]
     },
-    labels[3]: {
+    labels[1]: {
         'images': [
             "https://i.ibb.co/Mp7phs2/image.jpg",
             "https://i.ibb.co/dk3kMFy/image.jpg",
@@ -144,7 +144,7 @@ content_data = {
             "깨진 유리는 재활용X :일반 종량제봉투가 찢어지지 않도록 신문지에 싸서 배출!"
         ]
     },
-    labels[4]: {
+    labels[3]: {
         'images': [
             "https://i.ibb.co/px4P45n/image.webp",
             "https://i.ibb.co/dk3kMFy/image.jpg",
@@ -161,7 +161,7 @@ content_data = {
             "영수증,전표,코팅지,오염된종이,기타 벽지 및 부직포 등은 종량제 봉투로 배출!"
         ]
     },
-    labels[5]: {
+    labels[4]: {
         'images': [
             "https://i.ibb.co/4sctj5w/image.jpg",
             "https://i.ibb.co/dk3kMFy/image.jpg",
